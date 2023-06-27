@@ -1,9 +1,17 @@
 * {
-    background-color: rgb(51, 84, 248);
+    background-color: #48CAE4;
 }
 
 h1 {
-    text-shadow: 2px 2px 4px rgb(126, 174, 241);
+    color: #03045E;
+    text-shadow: 2px 2px 4px #0077B6;
+    font-size: xx-large;
+}
+
+h2 {
+    color: #023E8A;
+    text-shadow: 2px 2px 4px #0077B6;
+
 }
 
 #biotext {
