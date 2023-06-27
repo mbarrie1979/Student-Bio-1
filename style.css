@@ -5,3 +5,10 @@
 h1 {
     text-shadow: 2px 2px 4px rgb(241, 126, 126);
 }
+
+#face {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+
+}
