@@ -1,9 +1,19 @@
 * {
-    background-color: rgb(244, 194, 194);
+    background-color: rgb(51, 84, 248);
 }
 
 h1 {
-    text-shadow: 2px 2px 4px rgb(241, 126, 126);
+    text-shadow: 2px 2px 4px rgb(126, 174, 241);
+}
+
+#biotext {
+    color: white;
+    text-shadow: 2px 2px 4px rgb(126, 241, 224);
+}
+
+.bio {
+    font-size: large;
+    width: 500px;
 }
 
 #face {
